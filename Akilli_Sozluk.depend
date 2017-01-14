@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1414089763 source:c:\users\acer\desktop\0_programlama lab i 1. proje\test\akilli_sozluk\main.cpp
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1414089902 source:g:\ders\proje\test\akilli_sozluk\main.cpp
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

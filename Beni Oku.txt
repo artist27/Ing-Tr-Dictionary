@@ -1,0 +1,17 @@
+öðrenci no ad soyad:120201002 Muhammed ÖZKURT
+		    120201038 Barýþ BOZTAÞ
+
+Proje Baþlýðý:AKILLI SÖZLÜK
+
+
+Projeyi çalýþtýrmak için hangi programlar gerekli:DEV C++ IDE,CODEBLOCKS IDE vb. C DERLEYÝCÝLERÝ
+
+
+
+Projeyi çalýþtýrmak için uygulanacak adýmlar (Ayrýntýlý olarak):
+
+1)Proje derlenmiþ halde bulunduðu için main.exe dosyasý týklanarak proje çalýþtýrýlabilir.
+2)Proje kaynak kodu herhangi bir C derleyicisinde derlenerek çalýþtýrýlabilir.
+
+
+
